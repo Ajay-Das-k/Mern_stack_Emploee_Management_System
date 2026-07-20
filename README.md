@@ -1,9 +1,9 @@
 
-# DealsDray Machine test
+# Employee Management System
 
 
 
-Test to be created in MERN for the panel while for API's you need to 		
+Features built in MERN for the panel and APIs:
 	API's built on Node		
 	Create models using mogo db				
 	Validations		
@@ -14,11 +14,11 @@ Test to be created in MERN for the panel while for API's you need to
 
 ![Clone](https://i.pinimg.com/originals/e3/52/6f/e3526f9d3757ec5610f24e25d4be4acc.gif)
 
-## GitHub Repo : github.com/Ajay-Das-k/DealsDray_Ltd_Mern_stack_machine_test_Emploee_Management_System 
-(https://github.com/Ajay-Das-k/DealsDray_Ltd_Mern_stack_machine_test_Emploee_Management_System.git)
+## GitHub Repo : github.com/Ajay-Das-k/Mern_stack_Emploee_Management_System
+(https://github.com/Ajay-Das-k/Mern_stack_Emploee_Management_System.git)
 
-## Live Link: dealsdray-online-pvt-ltd-mern-stack.onrender.com/
-(https://dealsdray-online-pvt-ltd-mern-stack.onrender.com/)
+## Live Link: mern-stack-employee-management-system.onrender.com/
+(https://mern-stack-employee-management-system.onrender.com/)
 (free instance will spin down with inactivity, which can delay first requests by 50 seconds or more)
 
 ![0](0.png)
@@ -34,7 +34,7 @@ create .env with variables
 
 PORT=5000
 sessionSecret =mysitesessionsecret;
-MONGODB_URL=mongodb+srv://user:Password@machinetask.4riotip.mongodb.net/?retryWrites=true&w=majority&appName=MachineTask
+MONGODB_URL=mongodb+srv://user:Password@cluster.mongodb.net/?retryWrites=true&w=majority&appName=EmployeeManagement
 
 To get started with the project, follow these steps:
 
